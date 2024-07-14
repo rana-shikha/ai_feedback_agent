@@ -4,7 +4,7 @@ Customer Feedback Analyzer helps clients analyze their customer feedback effecti
 # Technologies Used:
 To build the Customer Feedback Analyzer, we used services from Supabase and AWS, with Python.
 - Supabase Services:
-    API: We used the Supabase API to manage and interact with our database. This allowed to , retrieve, and manipulate customer feedback data efficiently.
+    - Database and API: We used the Supabase API to manage and interact with supabase database.
 - AWS Services:
     - AWS Bedrock: We used the Cloud 3 Sonet agent from AWS Bedrock for advanced natural language processing tasks, including sentiment analysis and theme identification.
     - Amazon SageMaker: We developed our solution on Amazon SageMaker.
