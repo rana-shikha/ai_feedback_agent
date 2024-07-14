@@ -6,8 +6,8 @@ To build the Customer Feedback Analyzer, we used services from Supabase and AWS,
 - Supabase Services:
     API: We used the Supabase API to manage and interact with our database. This allowed to , retrieve, and manipulate customer feedback data efficiently.
 - AWS Services:
-    AWS Bedrock: We used the Cloud 3 Sonet agent from AWS Bedrock for advanced natural language processing tasks, including sentiment analysis and theme identification.
-    Amazon SageMaker: We developed our solution on Amazon SageMaker, which provided us with the tools to build, train, and deploy machine learning models, making it easier to handle large datasets and   perform complex analyses.
+    - AWS Bedrock: We used the Cloud 3 Sonet agent from AWS Bedrock for advanced natural language processing tasks, including sentiment analysis and theme identification.
+    - Amazon SageMaker: We developed our solution on Amazon SageMaker.
 - AWS Lambda: We used AWS Lambda to run our Python code in a serverless environment.
 
 DEMO - customer_feedback_agent_demo.mp4
